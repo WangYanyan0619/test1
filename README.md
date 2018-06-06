@@ -2,3 +2,9 @@
 hello world
 ## 这是第一次在GitHub上写程序
 ### 很开心哈
+- CNN
+- RNN
+- LSTM
+1. 输入门
+2. 遗忘门
+3. 输出门
